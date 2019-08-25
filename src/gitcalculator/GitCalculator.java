@@ -49,8 +49,8 @@ public class GitCalculator {
                 
                 case 4:
                 {
-                    messageMultiply multiply = new messageMultiply();
-                    multiply.start();
+                    messageMultiply test = new messageMultiply();
+                    test.start();
                     break;
                 }   
                 default:
