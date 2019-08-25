@@ -34,6 +34,7 @@ public class GitCalculator {
             {
                 case 1:
                 {
+                    //vincents del, välj en case och kommentera vilken del ni kör
                     messageAdd add = new messageAdd();
                     add.start();
                     break;
