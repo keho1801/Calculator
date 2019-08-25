@@ -40,6 +40,8 @@ public class GitCalculator {
                 }
                     
                 case 2:
+                    messageSubtract subtract = new messageSubtract();
+                    subtract.start();
                     break;
                     
                 case 3:
