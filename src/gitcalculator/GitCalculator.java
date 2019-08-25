@@ -46,8 +46,11 @@ public class GitCalculator {
                     break;
                 
                 case 4:
+                {
+                    messageMultiply multiply = new messageMultiply();
+                    multiply.start();
                     break;
-                    
+                }   
                 default:
                 {
                     System.out.println("Kunde ej hitta valet, försök igen!");
