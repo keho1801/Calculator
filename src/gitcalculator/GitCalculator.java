@@ -20,7 +20,7 @@ public class GitCalculator {
         
         while (true)
         {
-            System.out.println("Välkommen till Calculator, var vänlig och välj ditt alterantiv");
+            System.out.println("Välkommen till Calculator, var vänlig och välj ditt alterantiv!");
             System.out.println("1. Plussa två tal");
             System.out.println("2. Minus två tal");
             System.out.println("3. Dela två tal");
