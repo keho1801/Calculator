@@ -45,12 +45,14 @@ public class GitCalculator {
                     break;
                     
                 case 3:
+                    messageDivision division = new messageDivision();
+                    division.start();
                     break;
                 
                 case 4:
                 {
-                    messageMultiply test = new messageMultiply();
-                    test.start();
+                    messageMultiply multiply = new messageMultiply();
+                    multiply.start();
                     break;
                 }   
                 default:
