@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class messageMultiply {
 
-        public void start()
+    public void start()
     {
         System.out.println("");
         System.out.println("Skriv in första talet du vill multiplicera");
